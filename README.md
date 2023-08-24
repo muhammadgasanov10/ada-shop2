@@ -1,1 +1,1 @@
-# ada-shop2
+# shop-ada
